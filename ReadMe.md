@@ -1,1 +1,1 @@
-A project on Vagrant, Virtual Machines and Basic Git operations
+A project on Vagrant, Virtual Machines and Basic Git operations.
