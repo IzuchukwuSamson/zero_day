@@ -1,0 +1,1 @@
+The command uname prints/displays the operating system, node name operating system version, hardware name and processor type
